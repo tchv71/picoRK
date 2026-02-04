@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pico-altium-import")(type "KiCad")(uri "D:/RK/Pico/Pico-altium-import.kicad_sym")(options "")(descr ""))
+)
