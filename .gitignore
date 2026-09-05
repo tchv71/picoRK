@@ -22,3 +22,4 @@ Pico-backups/Pico-2025-11-15_215641.zip
 *.lck
 *.zip
 *.zip
+.history/
