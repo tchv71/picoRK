@@ -24,3 +24,4 @@ Pico-backups/Pico-2025-11-15_215641.zip
 *.zip
 .history/
 .DS_Store
+*.kicad_prl
